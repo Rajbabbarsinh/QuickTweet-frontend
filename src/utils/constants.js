@@ -8,5 +8,5 @@ export const PLACEHOLDER_BANNER =
 // export const BASE_URL = "https://loop-jfzv.onrender.com"
 // export const BASE_URL = "https://loop-backend-production.up.railway.app"
 
+export const BASE_URL = "https://quicktweet-backend.vercel.app";
 export const CLIENT_BASE_URL = "https://quicktweet-frontend.vercel.app";
-export const SERVER_BASE_URL = "https://quicktweet-backend.vercel.app";
