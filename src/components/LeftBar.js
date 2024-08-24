@@ -8,7 +8,7 @@ const LeftBar = () => {
 
   return (
     <div className="md:block hidden border p-2 rounded-md h-fit border-[--border-dark] dark:border-[--border-light] w-[20rem] sticky top-12">
-      <h1 className="text-sm my-1">New on LOOP</h1>
+      <h1 className="text-sm my-1">New on QuickTweet</h1>
       <div className="flex flex-col gap-2 min-h-44">
         {newUserListLoading ? (
           <SpinnerInfinity

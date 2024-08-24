@@ -22,7 +22,7 @@ const Navbar = () => {
             speed={10}
             size={40}
           />
-          <h1 className="font-semibold tracking-wider" >LOOP</h1>
+          <h1 className="font-semibold tracking-wider" >QuickTweet</h1>
         </Link>
         <div className="md:flex hidden w-[40%] justify-between">
           <Link
